@@ -1,0 +1,152 @@
+body {
+  background-color: darkblue;
+}
+.all {
+  display: flex;
+  justify-content: space-between;
+}
+.h2 {
+  font-size: 3rem;
+  font-weight: lighter;
+  font-family: monospace;
+  margin-left: 5rem;
+  margin-bottom: 6rem;
+  color: white;
+}
+.title {
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+  margin-left: 5rem;
+  border-right-width: 7rem;
+  font-family: monospace;
+}
+.item {
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+  margin-left: 5rem;
+  border-right-width: 4.5rem;
+  padding-bottom: 2rem;
+  font-family: monospace;
+}
+.new {
+  margin-top: 1.3rem;
+  margin-left: 10rem;
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: white;
+  font-family: monospace;
+}
+.dev2 {
+  /* margin-top: 3rem; */
+}
+.none {
+  color: orange;
+  background-color: orange;
+  width: 1rem;
+  height: 1rem;
+  border-radius: 1rem;
+  
+}
+.to {
+  border-style: solid;
+  background-color: lightsteelblue;
+  border-color: lightsteelblue;
+  border-radius: 0.8rem;
+  border-left-width: 0.9rem;
+  border-right-width: 30rem;
+  display: flex;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  /* height: 1.5rem; */
+}
+.jo {
+  display: flex;
+}
+.fo {
+  margin-left: 1rem;
+  font-family: monospace;
+  font-size: 1rem;
+}
+.ma {
+  border-style: solid;
+  border-top-left-radius: 0.6rem;
+  border-top-right-radius: 0.6rem;
+  border-color: lightsteelblue;
+  background-color: lightsteelblue;
+  border-left-width: 1rem;
+  border-top-width: 0rem;
+}
+.whe {
+  font-family: monospace;
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+.task {
+  font-family: monospace;
+  font-size: 0.8rem;
+}
+.done {
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: green;
+  background-color: green;
+  color: white;
+}
+.edit {
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: blue;
+  background-color: blue;
+  color: white;
+}
+.delete {
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: red;
+  background-color: red;
+  color: white;
+}
+.box {
+  margin-left: 30rem;
+}
+.sa {
+  border-style: solid;
+  border-top-left-radius: 0.6rem;
+  border-top-right-radius: 0.6rem;
+  border-color: lightsteelblue;
+  background-color: lightsteelblue;
+  border-left-width: 1rem;
+  border-top-width: 0rem;
+  margin-top: 1rem;
+}
+.po {
+  font-family: monospace;
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+.full {
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+  margin-right: 1rem;
+  padding-bottom: 2rem;
+}
+.boxx {
+  margin-left: 35rem;
+}
+.submit {
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: black;
+  background-color: black;
+  color: white;
+}
+.cancel {
+  border-radius: 0.5rem;
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+  color: black;
+}
