@@ -5,3 +5,15 @@ const todoList = [
   { id: 1, title: 'Do another thing', description: 'An example of another ToDo', done: false },
   { id: 2, title: 'Something done', description: 'This item has been done', done: true }
 ];
+
+const addTodoItem = () => {
+
+}
+
+const editTodoItem = (item) => {
+
+}
+
+const deleteTodoItem = (item) => {
+
+}
